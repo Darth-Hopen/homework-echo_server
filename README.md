@@ -1,1 +1,1 @@
-# homework-echo_server
+Домашнее задание - Echo сервер
